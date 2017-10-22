@@ -1,5 +1,10 @@
 <?xml version = "1.0"?>
 <project name = "SEB LAB3" default = "version">
+	<taskdef resource="net/sf/antcontrib/antlib.xml" >
+		<classpath>
+			<pathelement location="${basedir}/ant-contrib/ant-contrib-1.0b3.jar" />
+		</classpath>
+	</taskdef>
 	<description>
 	Lab work 3 on SEB
 	</description>
@@ -88,12 +93,17 @@
 		</propertyfile>
 	</target>
 
-	<target name="history" depends="compile" description="If build error get previous version from GIT">
-		<exec executable="git">
+	<target name="history">
+		<trycatch>
+			<try> <antcall target="compile"/></try>
+			<catch><exec executable="git">
 			<arg value = "checkout"/>
 			<arg value="HEAD~"/>
-		</exec>
-
+		    </exec>
+				<antcall target="history"/>
+			</catch>
+		</trycatch>
 	</target>
+
 
 </project>

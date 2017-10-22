@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8645d92-67a0-4018-9257-707280d57bb5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SEB3/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SEB3/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/SEB3/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SEB3/build.xml" afterPath="$PROJECT_DIR$/SEB3/build.xml" />
@@ -281,10 +282,18 @@
       <updated>1508685613468</updated>
       <workItem from="1508685616032" duration="12859000" />
     </task>
+    <task id="LOCAL-00001" summary="6 version">
+      <created>1508711827912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508711827927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17629000" />
+    <option name="totallyTimeSpent" value="17842000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -384,7 +393,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="6 version" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

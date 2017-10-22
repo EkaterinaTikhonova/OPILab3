@@ -13,9 +13,9 @@ public class Algorythm {
     private double kfc [] [] ;
     private double rez [] ;
     private int m[];
+= 0
 
-
-    public Algorythm( int n , double acc , double kfc [] [] , double rez []){
+    public  Algorythm( int n , double acc , double kfc [] [] , double rez []){
         this.n = n;
         this.acc = acc;
         this.kfc = kfc;

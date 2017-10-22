@@ -93,7 +93,7 @@
 			<arg value = "checkout"/>
 			<arg value="HEAD~"/>
 		</exec>
-		<antcall target = "compile"/>
+
 	</target>
 
 </project>

@@ -1,0 +1,99 @@
+<?xml version = "1.0"?>
+<project name = "SEB LAB3" default = "version">
+	<description>
+	Lab work 3 on SEB
+	</description>
+	
+	<property file="build.properties"/>
+	
+	
+   	<target name ="compile" description="compile .java files">
+		<echo>Creating ${compile.dir} folder </echo>
+	   	<mkdir dir="${compile.dir}"/>
+		<echo>Creating ${tmp.dir} folder </echo>
+		<mkdir dir="${tmp.dir}"/>
+		<echo>Compiling all project classes</echo> 
+	   	<javac srcdir="${src.dir}" includeantruntime="false" destdir="${compile.dir}"/>
+		<echo>Compiling all test classes</echo>
+	   	<javac srcdir="${test.dir}" includeantruntime="false" destdir = "${tmp.dir}" >
+			<classpath>
+				<pathelement location="${compile.dir}"/>
+				<pathelement location="${src.dir}/ConsoleRead.java"/>
+				<pathelement location="${lib.dir}/junit-4.12.jar"/>
+			</classpath>		
+		</javac>
+   	</target>
+   	
+   	
+   	<target name ="build" depends="compile,incver" description="make jar file from compile folder">
+		
+	   	<tstamp/>
+	   	<mkdir dir="${build.dir}"/>
+	   	<jar jarfile="${build.dir}/build-${build.number}-${DSTAMP}.jar" basedir="${compile.dir}">
+		   	<manifest>
+		   		<attribute name="Main-Class" value="lab.Prit"/>
+		   		<attribute name="Build-Version" value="${build.number}"/>
+		   	</manifest>
+	   	</jar> 
+		<antcall target="version"/>
+   	</target>
+   	
+   	<target name="test" depends="build" description="Run tests">
+   		<junit>
+			<classpath>
+				<pathelement location="${lib.dir}/junit-4.12.jar"/>
+				<pathelement location="${compile.dir}"/>
+				<pathelement location="${tmp.dir}"/>
+			</classpath>
+		<batchtest fork="yes" todir="tests">
+			<fileset dir="${test.dir}">
+				<include name="**/*Test*.java"/>
+			</fileset>
+		</batchtest>
+		<formatter type="plain" usefile="false"/>
+		</junit>
+   	</target>
+
+	<target name="native2ascii" description="converts unicode to ascii">
+		<native2ascii encoding="UTF-8" src="native/russian" dest="${src.dir}" includes="**/*.properties"/>
+	</target>
+   	
+   	
+   	<target name="clean" description="delete all .class files from compile folder">
+	   	<delete>
+	   		<fileset dir="${compile.dir}">
+	   		<include name="**/*.class"/>
+	   		</fileset>
+	   		<fileset dir="${tmp.dir}">
+	   		<include name="**/*.class"/>
+	   		</fileset>
+	   	</delete>
+		<echo>Cleaned ${compile.dir} folder </echo>
+		<echo>Cleaned ${tmp.dir} folder </echo>
+   	</target>
+   	
+   	<target name="dell">
+   		<delete dir="${compile.dir}"/>
+   		<delete dir="${build.dir}"/>
+		<delete dir="${tmp.dir}"/>
+   	</target>
+   	
+   	<target name="version">
+   		<echo>Current build number: ${build.number}</echo>
+   	</target>
+
+	<target name="incver">
+		<propertyfile file="${build.prop}">
+		<entry key="build.number" type="int" operation="+" value="1" default="0" />
+		</propertyfile>
+	</target>
+
+	<target name="history" depends="compile" description="If build error get previous version from GIT">
+		<exec executable="git">
+			<arg value = "checkout"/>
+			<arg value="HEAD~"/>
+		</exec>
+		<antcall target = "compile"/>
+	</target>
+
+</project>

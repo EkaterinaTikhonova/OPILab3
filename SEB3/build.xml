@@ -100,7 +100,10 @@
 		<trycatch>
 			<try> <antcall target="compile"/></try>
 			<catch><exec executable="git">
-				<arg value = "reset --hard HEAD~1"/>
+				<arg value = "checkout"/>
+				<arg value = "HEAD~" />
+
+
 			</exec>
 				<antcall target="history1"/>
 			</catch>
@@ -114,7 +117,8 @@
 		<trycatch>
 			<try> <antcall target="compile"/></try>
 			<catch><exec executable="git">
-				<arg value = "reset --hard HEAD~1"/>
+				<arg value = "checkout"/>
+				<arg value = "HEAD~" />
 			</exec>
 				<antcall target="history"/>
 			</catch>

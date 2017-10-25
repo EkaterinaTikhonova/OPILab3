@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8645d92-67a0-4018-9257-707280d57bb5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SEB3/output" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SEB3/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/SEB3/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SEB3/build.xml" afterPath="$PROJECT_DIR$/SEB3/build.xml" />
@@ -17,32 +18,84 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="AlgorythmTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SEB3/tests/lab/AlgorythmTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="128">
               <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SEB3/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-158">
-              <caret line="107" column="24" lean-forward="false" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
+            <state relative-caret-position="48">
+              <caret line="114" column="13" lean-forward="true" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algorythm.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1508934834414" expanded="true" signature="44408:44450" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44408:44468" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44408:44481" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44408:44496" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44531:47044" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44544:47029" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44598:44893" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44617:44878" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44680:44858" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44720:44824" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44741:44802" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44943:45270" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="44962:45255" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45057:45235" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45097:45201" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45118:45179" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45321:45641" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45340:45626" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45428:45606" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45468:45572" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45489:45550" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45684:45990" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45703:45975" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45777:45955" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45817:45921" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="45838:45899" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46041:46357" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46060:46342" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46144:46322" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46184:46288" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46205:46266" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46392:46698" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46411:46683" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46485:46663" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46525:46629" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46546:46607" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46750:47015" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46769:47000" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46802:46980" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46842:46946" ph="..." />
+                <marker date="1508934834414" expanded="true" signature="46863:46924" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Algorythm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SEB3/src/lab/Algorythm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,10 +134,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SEB3/build.properties" />
         <option value="$PROJECT_DIR$/SEB3/output" />
-        <option value="$PROJECT_DIR$/SEB3/build.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/SEB3/build.properties" />
         <option value="$PROJECT_DIR$/SEB3/src/lab/Algorythm.java" />
+        <option value="$PROJECT_DIR$/SEB3/build.xml" />
       </list>
     </option>
   </component>
@@ -116,15 +170,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="seb3heliosver" type="b2602c69:ProjectViewProjectNode" />
               <item name="seb3heliosver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seb3heliosver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seb3heliosver" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seb3heliosver" type="b2602c69:ProjectViewProjectNode" />
@@ -152,7 +212,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,6 +329,7 @@
       <option name="presentableId" value="Default" />
       <updated>1508685613468</updated>
       <workItem from="1508685616032" duration="12859000" />
+      <workItem from="1508761333221" duration="5229000" />
     </task>
     <task id="LOCAL-00001" summary="6 version">
       <created>1508711827912</created>
@@ -278,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508711827927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="7 version">
+      <created>1508712956894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508712956894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18564000" />
+    <option name="totallyTimeSpent" value="28109000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -294,59 +361,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <frame x="8" y="0" width="1366" height="732" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.4878788" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.4181818" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928944" sideWeight="0.5090909" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928944" sideWeight="0.4909091" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.4878788" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15984848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928944" sideWeight="0.5181818" order="15" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.4939394" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.4909091" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928944" sideWeight="0.48181817" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.5212121" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15984848" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1621212" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,10 +440,112 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
     <buildFile url="file://$PROJECT_DIR$/SEB3/build.xml">
+      <targetFilters>
+        <filter targetName="compile" isVisible="true" />
+        <filter targetName="build" isVisible="true" />
+        <filter targetName="test" isVisible="true" />
+        <filter targetName="native2ascii" isVisible="true" />
+        <filter targetName="clean" isVisible="true" />
+        <filter targetName="dell" isVisible="false" />
+        <filter targetName="version" isVisible="false" />
+        <filter targetName="incver" isVisible="false" />
+        <filter targetName="history" isVisible="false" />
+        <filter targetName="history1" isVisible="false" />
+      </targetFilters>
       <expanded value="true" />
     </buildFile>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SEB3/tests/lab/AlgorythmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508934834414" expanded="true" signature="44408:44450" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44408:44468" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44408:44481" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44408:44496" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44531:47044" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44544:47029" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44598:44893" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44617:44878" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44680:44858" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44720:44824" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44741:44802" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44943:45270" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44962:45255" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45057:45235" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45097:45201" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45118:45179" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45321:45641" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45340:45626" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45428:45606" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45468:45572" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45489:45550" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45684:45990" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45703:45975" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45777:45955" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45817:45921" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45838:45899" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46041:46357" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46060:46342" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46144:46322" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46184:46288" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46205:46266" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46392:46698" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46411:46683" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46485:46663" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46525:46629" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46546:46607" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46750:47015" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46769:47000" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46802:46980" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46842:46946" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46863:46924" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SEB3/src/lab/Algorythm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SEB3/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SEB3/tests/lab/ConsoleReadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SEB3/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="19" lean-forward="true" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SEB3/tests/lab/AlgorythmTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -479,6 +626,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SEB3/output" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508934834414" expanded="true" signature="44408:44450" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44408:44468" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44408:44481" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44408:44496" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44531:47044" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44544:47029" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44598:44893" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44617:44878" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44680:44858" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44720:44824" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44741:44802" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44943:45270" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="44962:45255" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45057:45235" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45097:45201" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45118:45179" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45321:45641" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45340:45626" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45428:45606" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45468:45572" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45489:45550" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45684:45990" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45703:45975" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45777:45955" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45817:45921" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="45838:45899" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46041:46357" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46060:46342" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46144:46322" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46184:46288" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46205:46266" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46392:46698" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46411:46683" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46485:46663" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46525:46629" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46546:46607" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46750:47015" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46769:47000" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46802:46980" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46842:46946" ph="..." />
+            <marker date="1508934834414" expanded="true" signature="46863:46924" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SEB3/build.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -487,25 +685,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SEB3/output">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SEB3/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="107" column="24" lean-forward="false" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SEB3/tests/lab/AlgorythmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="128">
           <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
         </state>
@@ -513,8 +695,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SEB3/src/lab/Algorythm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SEB3/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="114" column="13" lean-forward="true" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
           <folding />
         </state>
       </provider>
